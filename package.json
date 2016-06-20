@@ -37,6 +37,6 @@
     "gruntplugin"
   ],
   "dependencies": {
-    "chimp": "<= 1.0.0"
+    "chimp": "git://github.com/xolvio/chimp.git#master"
   }
 }
